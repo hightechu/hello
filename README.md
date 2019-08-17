@@ -19,6 +19,12 @@ A Place for Vancouver Island Teens to Build Community through Technology.
 
 * [https://hub.hightechu.ca/](https://hub.hightechu.ca/)
 
+## HighTechU Resource Centre
+
+Want to learn or do more with technology? Then you have come to the right place. 
+
+* [https://hightechu.github.io/resources/](https://hightechu.github.io/resources/)
+
 ## Social Media
 
 * [Facebook Page - hightechu](https://www.facebook.com/hightechu)
