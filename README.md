@@ -1,6 +1,6 @@
 # Hello
 
-HighTechU is about more than just coding; it's about empowering youth to build the diverse skills they need to succeed and thrive in the growing technology industry in Victoria and beyond.
+HighTechU is about more than just coding; it's about empowering youth with the diverse skills they need to succeed and thrive in the growing technology industry.
 
 ### Social Media
 
