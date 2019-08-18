@@ -25,6 +25,10 @@ Want to learn or do more with technology? Then you have come to the right place.
 
 * [https://hightechu.github.io/resources/](https://hightechu.github.io/resources/)
 
+## HighTechU Portfolio
+
+* [https://hightechu.github.io/portfolio](https://hightechu.github.io/portfolio)
+
 ## Social Media
 
 * [Facebook Page - hightechu](https://www.facebook.com/hightechu)
