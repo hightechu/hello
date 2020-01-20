@@ -35,6 +35,7 @@ Want to learn or do more with technology? Then you have come to the right place.
 * [Instagram - hightechu](https://www.instagram.com/hightechu/)
 * [Linkedin - hightechu](https://www.linkedin.com/company/hightechu/)
 * [Reddit - hightechu](https://www.reddit.com/user/hightechu)
+* [TikTok](https://www.tiktok.com/@hightechu)
 * [Twitter - hightech_u](https://twitter.com/hightech_u)
 * [Youtube - HighTech U](https://www.youtube.com/channel/UC2Mn8IgijRO-OF-DrWEq4KA)
 
