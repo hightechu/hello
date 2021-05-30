@@ -4,40 +4,16 @@ HighTechU is about more than just coding; it's about empowering youth with the d
 
 ## About
 
-**HighTechU** is a non-profit initiative based in the **UVic Faculty of Engineering**, developed by the **Department of Computer Science** in collaboration with members of the Greater Victoria technology and education sectors, which seeks to build our community through technology-focused experiential learning opportunities for Vancouver Island youth in grades 9-12. 
+Based in the UVic Department of Electrical and Computer Engineering, HighTechU is an innovative learning community for high-school-aged youth in British Columbia to make connections, build professional skills, and explore diverse education and career pathways related to technology.
+
+Launched in 2018 as a UVic Department of Computer Science pilot project, HighTechU has developed into an on-going collaborative initiative delivered in partnership with local industry, educational institutions and high-school students.
+
+Diversity is a cornerstone of HighTechU. Through our learning community, we aim to create a safe and welcoming environment where all persons, regardless of race, gender identity, religion, sexual orientation, or socioeconomic status, can discover and explore the world of technology and their role leading future innovation.
+
+## Links
 
 * [Website - HighTechU](https://www.hightechu.ca/)
-* [GitHub - HighTechU](https://github.com/hightechu/)
-
-## Slack
-
-* [Slack - HighTechU](https://hightechu.slack.com/)
-
-## HighTechU Hub
-
-A Place for Vancouver Island Teens to Build Community through Technology.
-
-* [https://hub.hightechu.ca/](https://hub.hightechu.ca/)
-
-## HighTechU Resource Centre
-
-Want to learn or do more with technology? Then you have come to the right place. 
-
-* [https://hightechu.github.io/resources/](https://hightechu.github.io/resources/)
-
-## HighTechU Portfolio
-
-* [https://hightechu.github.io/portfolio](https://hightechu.github.io/portfolio)
-
-## Social Media
-
-* [Facebook Page - hightechu](https://www.facebook.com/hightechu)
-* [Instagram - hightechu](https://www.instagram.com/hightechu/)
-* [Linkedin - hightechu](https://www.linkedin.com/company/hightechu/)
-* [Reddit - r/hightechu](https://www.reddit.com/r/hightechu/)
-* [TikTok - @hightechu](https://www.tiktok.com/@hightechu)
-* [Twitter - hightech_u](https://twitter.com/hightech_u)
-* [Youtube - HighTech U](https://www.youtube.com/channel/UC2Mn8IgijRO-OF-DrWEq4KA)
+* [LittleLink - HighTechU](https://hightechu.github.io/links/)
 
 ## Support
 
